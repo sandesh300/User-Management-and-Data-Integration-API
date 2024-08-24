@@ -1,0 +1,40 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Database files
+*.sqlite3
+
+# Test coverage
+.coverage
+*.cover
+*.hypothesis/
+
+# Configuration files
+*.env
+
+# Build directories
+build/
+dist/
+*.egg-info/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+pip-wheel-metadata/
