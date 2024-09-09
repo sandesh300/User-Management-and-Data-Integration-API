@@ -5,6 +5,10 @@
 
 Develop a set of APIs for user registration, login, linking an ID, and implementing joins and chain delete functionality using Python and MongoDB.
 
+-	Developed a comprehensive API using FastAPI and PyMongo for user registration, login, and linking IDs, ensuring secure password hashing and robust error handling.
+-	Implemented advanced data handling features including joining data from multiple MongoDB collections, enabling efficient retrieval and integration of related user information.
+-	Designed and executed chain delete functionality, facilitating the deletion of a user and all associated data across collections, enhancing data management and integrity.
+
 ## Requirements
 
 ### Framework and Libraries
