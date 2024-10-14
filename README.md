@@ -1,5 +1,5 @@
 
-# User Management and Data Integration API - Remotebricks Python Internship Assignment
+# User Management and Data Integration API 
 
 ## Objective
 
